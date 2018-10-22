@@ -22,9 +22,6 @@ heros.on('ready', async () => {
 client.channels.get("504006099364610048").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },5000);
 });
-لا تنسى تحط أيدي الروم
-
-
 
 
 client.on('ready', () => {
