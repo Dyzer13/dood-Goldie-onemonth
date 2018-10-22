@@ -24,6 +24,8 @@ client.channels.get("504006099364610048").send(`${ReBeL[Math.floor(Math.random()
 });
 
 
+
+
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
 });
