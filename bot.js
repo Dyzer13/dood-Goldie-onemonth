@@ -5,7 +5,7 @@ const other = new Discord.Client();
 
 
 client.on('ready', async () => {
-      let ReBeL = ["تم انتهاء صلاحية لبوت"]
+      let ReBeL = [" تم انتهاء صلاحية لبوت يرجا تكلم معا Ḿiĉhǿu#0001"]
   setInterval(() => {
 client.channels.get("497802555296841743").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 },5000);
